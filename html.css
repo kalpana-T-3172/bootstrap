@@ -1,0 +1,15 @@
+img{
+    margin:5px;
+}
+u1,li{
+    
+    display: inline;
+}
+ul{
+    padding-left:  60%;
+    text-align: right;
+}
+nav{
+    background-color: black;
+    color: aliceblue;
+}
